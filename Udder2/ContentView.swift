@@ -27,6 +27,6 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 struct something{
-    static var something
+    var test : String
     
 }
